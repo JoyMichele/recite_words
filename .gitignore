@@ -1,0 +1,9 @@
+# dir about CSV,operating record
+/.idea
+/download
+
+# static files
+/static/**/*.js
+
+# packages 
+**/__pycache__
